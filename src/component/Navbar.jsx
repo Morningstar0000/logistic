@@ -52,11 +52,11 @@ export default function Navbar() {
       fontWeight: "bold"
     }}
   >
-    <li><a className="text-gray-700 hover:bg-gray-100/50">Home</a></li>
-    <li><a className="text-gray-700 hover:bg-gray-100/50">Pages</a></li>
-    <li><a className="text-gray-700 hover:bg-gray-100/50">Services</a></li>
-    <li><a className="text-gray-700 hover:bg-gray-100/50">Blog</a></li>
-    <li><a className="text-gray-700 hover:bg-gray-100/50">Company</a></li>
+    <li><a href="#"  className="text-gray-700 hover:bg-gray-100/50">Home</a></li>
+    <li><a href="#about"  className="text-gray-700 hover:bg-gray-100/50">About</a></li>
+    <li><a href="#service" className="text-gray-700 hover:bg-gray-100/50">Services</a></li>
+    <li><a href="#pricing" className="text-gray-700 hover:bg-gray-100/50">Pricing</a></li>
+    <li><a href="#blog" className="text-gray-700 hover:bg-gray-100/50">Blog</a></li>
     <li><a className="text-gray-700 hover:bg-gray-100/50">Contact Us</a></li>
   </ul>
 </div>
@@ -79,19 +79,19 @@ export default function Navbar() {
             <a href="#" className="flex items-center text-blue-500 font-medium">
               Home
             </a>
-            <a href="#" className="flex items-center text-gray-700 font-medium">
-              Pages
+            <a href="#about" className="flex items-center text-gray-700 font-medium">
+              About
             </a>
-            <a href="#" className="flex items-center text-gray-700 font-medium">
+            <a href="#service" className="flex items-center text-gray-700 font-medium">
               Services
             </a>
-            <a href="#" className="flex items-center text-gray-700 font-medium">
+            <a href="#pricing" className="text-gray-700 font-medium">
+             Pricing
+            </a>
+            <a href="#blog" className="flex items-center text-gray-700 font-medium">
               Blog
             </a>
-            <a href="#" className="text-gray-700 font-medium">
-              Company
-            </a>
-            <a href="#" className="text-gray-700 font-medium">
+            <a href="#contact" className="text-gray-700 font-medium">
               Contact Us
             </a>
           </nav>

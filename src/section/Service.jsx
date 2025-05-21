@@ -40,7 +40,7 @@ const services = [
 
 export function Ourservice() {
   return (
-    <section className="align-element py-16">
+    <section className="align-element py-16" id="service">
       <div className="text-center mb-12">
         <h3 className="text-blue-500 font-medium mb-4">OUR SERVICES</h3>
         <h2 className="text-4xl md:text-5xl font-bold text-navy-900 mb-6">
@@ -146,7 +146,7 @@ export function WhyChooseUs() {
   };
 
   return (
-    <div className=" align-element relative py-8">
+    <div className=" align-element relative py-8" >
       <div className="grid lg:grid-cols-2 gap-8 items-center">
         <div className="services-headline  space-y-4 md:space-y-6">
           <div className="services-headline  space-y-4 md:space-y-6 ">

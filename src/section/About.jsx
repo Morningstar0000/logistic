@@ -2,7 +2,7 @@ import { CheckCircle } from "lucide-react"
 
 export default function AboutUs() {
   return (
-    <div className="align-element py-15 ">
+    <div className="align-element py-15 " id="about">
       {/* Main Content */}
       <div className=" flex flex-col gap-6 md:flex-row w-full">
         {/* Left side - Image */}

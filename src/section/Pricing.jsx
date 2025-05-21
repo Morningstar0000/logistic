@@ -27,7 +27,7 @@ export default function PricingComparison() {
       );
 
     return (
-        <section className="align-element py-15">
+        <section className="align-element py-15" id="pricing">
             <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 md:py-20">
                 <h2 className="text-[#007bff] font-medium text-base sm:text-lg uppercase tracking-wide text-center mb-3 sm:mb-4">
                     OUR PRICING

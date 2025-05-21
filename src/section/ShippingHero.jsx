@@ -76,7 +76,7 @@ const ShippingHero = () => {
       </div>
 
       {/* Main Content */}
-      <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-center px-4 py-20">
+      <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-center px-4 py-20" id="contact">
         <div className="max-w-4xl mx-auto">
           <p className="text-blue-400 font-medium tracking-wide mb-4">SHIPMENT</p>
 
