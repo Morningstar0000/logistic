@@ -1,0 +1,503 @@
+{
+  "navbar": {
+    "home": "首页",
+    "about": "关于我们",
+    "services": "服务",
+    "track": "追踪货物",
+    "contact": "联系我们",
+    "address": "9170 Millbrook Rd, Newark, IL",
+    "email": "deepbluecargo@gmail.com"
+  },
+
+  "hero": {
+    "welcome": "欢迎来到深蓝货运",
+    "title": "获得最佳的运输和物流支持",
+    "subtitle": "加入数百万获得汽车、家具、货物等运输优惠交易的用户",
+    "get_quote": "获取报价",
+    "track_placeholder": "输入追踪号码",
+    "track_button": "立即追踪",
+    "get_started": "开始使用"
+  },
+  "about": {
+    "tagline": "关于深蓝货运",
+    "title_part1": "为无国界世界提供",
+    "title_part2": "精准物流解决方案。",
+    "description1": "在深蓝货运，我们不仅仅是运输货物；我们驾驭全球贸易的复杂性，让您无需为此烦恼。基于海事卓越的原则创立，我们已经发展成为一流的端到端专家，通过无缝的海运航线网络和战略港口合作伙伴关系连接各大洲。",
+    "quote": "海洋不是障碍，而是您最大的优势。",
+    "features": {
+      "support": "24/7 全球支持",
+      "security": "安全链协议",
+      "excellence": "海事卓越",
+      "tracking": "自动化追踪"
+    },
+    "alt_images": {
+      "main": "全球物流枢纽",
+      "secondary": "安全运输运营"
+    }
+  },
+  "services": {
+    "title": "我们的服务",
+    "heading": "我们的服务值得信赖",
+    "description": "通过部署复杂的全球物流路线网络，深蓝货运为您最有价值的资产提供无懈可击的安全保障。我们将实时跟踪与独家处理协议相结合，确保每次运输都能精准到达。",
+    
+    "services_list": {
+      "fcl": {
+        "title": "整箱运输",
+        "description": "通过整箱运输最大限度地提高效率。我们提供专用的20英尺和40英尺集装箱解决方案，享有优先舱位，确保您的大宗货物在每条主要全球贸易航线上都能以绝对安全和高成本效益的方式运输。",
+        "alt": "整箱运输"
+      },
+      "lcl": {
+        "title": "拼箱运输",
+        "description": "小件货物也能实现全球覆盖。我们的拼箱服务让您只需支付实际使用的空间。我们专业地将您的货物与其他货物合并，以最经济的海运价格提供运输服务，同时不降低运输速度。",
+        "alt": "拼箱运输"
+      },
+      "port_to_door": {
+        "title": "港口到门",
+        "description": "从海洋到内陆的无缝整合。深蓝货运处理整个运输过程。我们管理从船舶到卡车的复杂交接，包括清关和最后一英里交付，为您提供单一责任点。",
+        "alt": "港口到门运输"
+      }
+    }
+  },
+
+  "why_choose_us": {
+    "title": "为什么选择我们",
+    "heading": "海洋广阔无边，但您的供应链不应成为谜团。我们为您的全球业务增长提供所需的稳定性。",
+    "description": "全球覆盖，本地专业\n在国际水域航行需要的不仅仅是船只；还需要专业知识。我们在全球范围内保持着强大的战略港口合作伙伴网络和当地海关专家，确保您的货物能够顺利跨越国界，避免典型的官僚延误。",
+    
+    "features": {
+      "experience": "20+年工作经验",
+      "tracking": "24/7实时海事追踪",
+      "ports": "覆盖50+个主要全球港口",
+      "safety": "99.9%货物安全评级"
+    },
+    
+    "image_alt": "现代化仓库和物流运营"
+  },
+
+  "achievements": {
+    "packages": "已交付包裹",
+    "countries": "覆盖国家",
+    "clients": "满意客户",
+    "goods": "货物吨数"
+  },
+  "security": {
+    "tagline": "安全第一",
+    "title_part1": "深蓝",
+    "title_part2": "安全协议",
+    "description": "为您的最高价值资产提供最大保护。我们不仅仅是运输；我们通过多层防御系统保护不可替代的资产。",
+    
+    "protocols": {
+      "packaging": {
+        "title": "防拆封包装",
+        "description": "每个高价值货物都使用医用级TEB袋密封，采用热熔粘合技术，能立即显示任何干扰痕迹。"
+      },
+      "discreet": {
+        "title": "隐秘'隐形'物流",
+        "description": "我们采用盲标标签，外部不提及内容或价值，确保您的资产在运输过程中不会成为目标。"
+      },
+      "custody": {
+        "title": "已验证监管链",
+        "description": "严格的数字审计跟踪记录每次交接。员工必须在从提货到交付的每个扫描点验证其唯一身份ID。"
+      },
+      "signature": {
+        "title": "零豁免签名",
+        "description": "不进行前门放置。我们要求对每次安全链交付进行强制政府身份验证和物理签名。"
+      }
+    },
+    
+    "trust_footer": {
+      "title": "100%保险运输",
+      "description": "每个高价值货物都有我们全球安全保证支持。",
+      "button": "一切都与安全有关"
+    }
+  },
+  "tracking": {
+    "tab_title": "追踪包裹",
+    "title": "追踪您的货物",
+    "description": "输入追踪号码以获取包裹的实时更新",
+    "input_label": "追踪号码",
+    "input_placeholder": "输入追踪号码（例如：SHIP123456789）",
+    "track_button": "追踪包裹",
+    "tracking_loading": "追踪中...",
+    
+    "error": {
+      "empty": "请输入追踪号码",
+      "not_found": "未找到追踪号码。请检查后重试。",
+      "fetch_error": "获取追踪信息时出错。请重试。",
+      "unexpected": "发生意外错误。请重试。"
+    },
+    
+    "example": "追踪号码示例：",
+    
+    "results": {
+      "header": "货物详情",
+      "created": "创建日期：",
+      "status": {
+        "delivered": "已送达",
+        "in_transit": "运输中",
+        "out_for_delivery": "派送中",
+        "pending": "待处理"
+      }
+    },
+    
+    "route": {
+      "title": "运输路线及当前位置",
+      "origin": "始发地",
+      "current_location": "当前位置",
+      "destination": "目的地"
+    },
+    
+    "route_info": {
+      "title": "路线信息",
+      "distance": "距离：",
+      "progress": "旅程进度：",
+      "carrier": "承运商：",
+      "transport_mode": "运输方式："
+    },
+    
+    "time_info": {
+      "title": "时间信息",
+      "departure": "出发时间：",
+      "arrival": "预计到达：",
+      "transit_days": "运输天数：",
+      "current_status": "当前状态："
+    },
+    
+    "sender": {
+      "title": "寄件人",
+      "name": "寄件人姓名",
+      "address": "寄件人地址",
+      "phone": "寄件人电话"
+    },
+    
+    "recipient": {
+      "title": "收件人",
+      "name": "收件人姓名",
+      "address": "收件人地址",
+      "phone": "收件人电话"
+    },
+    
+    "package_details": {
+      "title": "包裹详情",
+      "name": "名称：",
+      "type": "类型：",
+      "weight": "重量："
+    },
+    
+    "service": {
+      "title": "服务与递送",
+      "service_type": "服务：",
+      "estimated": "预计：",
+      "reference": "参考号："
+    },
+    
+    "specifications": {
+      "title": "包裹规格",
+      "dimensions": "尺寸",
+      "length": "长度",
+      "width": "宽度",
+      "height": "高度",
+      "nature": "性质与价值",
+      "contents": "内容：",
+      "value": "价值：",
+      "additional_info": "附加信息",
+      "insurance": "保险：",
+      "signature_required": "需要签名：",
+      "priority": "优先级："
+    },
+    
+    "timeline": {
+      "title": "追踪历史",
+      "no_events": "无追踪事件可用。",
+      "date": "日期",
+      "time": "时间",
+      "location": "位置"
+    },
+    
+    "actions": {
+      "track_another": "追踪另一个包裹",
+      "clear": "清除"
+    },
+    
+    "default_values": {
+      "carrier": "标准承运商",
+      "transport_mode": "陆路运输",
+      "package_name": "标准包裹",
+      "package_type": "普通",
+      "nature": "普通货物",
+      "contents": "未指定",
+      "value": "未申报",
+      "reference": "不适用"
+    }
+  },
+  
+  "common": {
+   
+    "days": "{{count}} 天",
+    "days_plural": "{{count}} 天",
+    "yes": "是",
+    "no": "否",
+    "insured_yes": "已保险 ✓",
+    "insured_no": "未保险"
+  },
+  "pricing": {
+    "title_part1": "获取",
+    "title_part2": "即时估价",
+    "description": "透明定价，无隐藏附加费。选择您的速度，保护您的价值，放心运输。",
+    
+    "features": {
+      "priority": {
+        "title": "优先处理",
+        "description": "所有报价均包含高级海关经纪服务作为标准。"
+      },
+      "insurance": {
+        "title": "默认保险",
+        "description": "每个包裹的基础保险覆盖高达500美元。"
+      }
+    },
+    
+    "note": {
+      "title": "高价值物品注意事项",
+      "text": "对于珠宝或货币链等高价值物品，请选择'价值链'等级以获取专业的武装运输协议。"
+    },
+    
+    "tiers": {
+      "express_docs": {
+        "title": "优先文件",
+        "description": "法律文件与合同。24-48小时全球送达。",
+        "price": "起价 $29.00",
+        "badge": ""
+      },
+      "secure_value": {
+        "title": "安全价值链",
+        "description": "珠宝、手表及货币链。包括武装取件和TEB密封。",
+        "price": "定制报价",
+        "badge": "最安全"
+      },
+      "standard_parcel": {
+        "title": "全球包裹快递",
+        "description": "20公斤以下标准货物。高效的跨境路线规划。",
+        "price": "起价 $45.00",
+        "badge": ""
+      }
+    }
+  },
+  "quote_form": {
+    "title": "请求报价",
+    
+    "tabs": {
+      "courier": "快递服务",
+      "freight": "大宗货运"
+    },
+    
+    "labels": {
+      "route_details": "路线详情",
+      "cargo_info": "货物信息",
+      "pickup_location": "取货国家与城市",
+      "delivery_location": "送货国家与城市",
+      "weight_placeholder_courier": "重量 (公斤)",
+      "weight_placeholder_freight": "总吨数",
+      "value_placeholder": "价值 ($)",
+      "commodity": "选择商品类型",
+      "incoterm": "选择国际贸易术语 (运输条款)",
+      "incoterm_note": "不确定？选择DDP获取完整的送货服务。",
+      "email": "电子邮件地址",
+      "phone": "电话号码 (WhatsApp)"
+    },
+    
+    "commodity_options": {
+      "courier": {
+        "documents": "文件 / 法律文件",
+        "jewelry": "珠宝 / 货币链",
+        "electronics": "高价值电子产品"
+      },
+      "freight": {
+        "general": "普通货物 (拼箱)",
+        "container": "整箱货物 (整箱)",
+        "machinery": "工业机械"
+      }
+    },
+    
+    "incoterm_options": {
+      "EXW": "EXW - 工厂交货 (在源头取货)",
+      "FOB": "FOB - 船上交货 (装运至港口)",
+      "CIF": "CIF - 成本、保险加运费 (到目的港)",
+      "DDP": "DDP - 完税后交货 (送货上门)"
+    },
+    
+    "secure_chain": {
+      "title": "应用安全链协议？",
+      "description": "适用于珠宝、货币链和敏感资产。"
+    },
+    
+    "submit_button": {
+      "default": "生成我的报价",
+      "loading": "处理中..."
+    },
+    
+    "success": {
+      "title": "请求已发送",
+      "reference": "参考ID:",
+      "review_title": "审核要求",
+      "review_description": "我们的物流部门正在计算关税税率和航班可用性。",
+      "security_title": "安全审核",
+      "security_description": "您的高价值请求已被标记为优先处理。",
+      "confirmation": "详细报价将在15分钟内发送至您的邮箱。",
+      "another_request": "提交另一个请求"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "description": "对高价值物流或我们的安全链协议有疑问吗？我们的专家全天候为您服务。",
+    
+    "features": {
+      "response_time": {
+        "label": "响应时间",
+        "value": "15分钟内"
+      },
+      "security_status": {
+        "label": "安全状态",
+        "value": "端到端加密"
+      }
+    },
+    
+    "official_channel": "官方渠道：",
+    "email": "ops@deepbluecargo.com",
+    
+    "form": {
+      "email_label": "电子邮件地址",
+      "email_placeholder": "输入您的专业电子邮件",
+      "message_label": "查询详情",
+      "message_placeholder": "简要描述您的货物或物流需求...",
+      "submit_button": "发送"
+    }
+  },
+  "faq": {
+    "title_part1": "常见",
+    "title_part2": "问题",
+    "description": "关于使用深蓝货运进行运输的一切您需要知道的信息。",
+    
+    "items": [
+      {
+        "question": "您如何保护珠宝或货币链等高价值物品？",
+        "answer": "我们使用'安全链'协议，包括3层防拆封包装、盲标标签（盒子上不提及内容）以及强制性的GPS跟踪监管链。您的物品永远不会无人看管。"
+      },
+      {
+        "question": "快递服务的最大重量是多少？",
+        "answer": "我们的快递部门专注于轻量、高优先级的货物。我们通常处理高达30公斤（66磅）的包裹。对于更重的物品，请联系我们的货运部门获取拼箱报价。"
+      },
+      {
+        "question": "我需要单独支付关税和税费吗？",
+        "answer": "这取决于您选择的国际贸易术语。对于DDP（完税后交货），我们在您的报价中包含所有税费。对于其他条款，海关可能会在最终放行前联系收件人付款。"
+      },
+      {
+        "question": "如果高价值货物延迟会发生什么？",
+        "answer": "虽然我们保持了99%的准时记录，但国际海关偶尔会扣留物品进行检查。我们提供实时更新，并设有专门的经纪人以加快清关流程。"
+      },
+      {
+        "question": "我的货物在国际运输期间有保险吗？",
+        "answer": "是的。每批货物都包含基础保险。对于珠宝等高价值资产，我们提供'全额价值保护'，覆盖物品申报价值的100%，防止丢失或损坏。"
+      }
+    ],
+    
+    "contact_cta": "还有问题吗？",
+    "contact_link": "联系我们的24/7支持团队"
+  },
+  "footer": {
+    "brand": {
+      "name_part1": "深蓝",
+      "name_part2": "货运",
+      "description": "高价值资产物流的全球领导者。专业从事安全'货币链'转移、奢侈腕表和关键任务工业货运。"
+    },
+    
+    "sections": {
+      "services": {
+        "title": "专业服务",
+        "items": [
+          "安全货币链",
+          "珠宝与金条",
+          "海运 (整箱/拼箱)",
+          "快递空运",
+          "海关经纪"
+        ]
+      },
+      "company": {
+        "title": "公司",
+        "items": [
+          "关于我们的使命",
+          "全球网络",
+          "安全协议",
+          "职业发展",
+          "联系台"
+        ]
+      },
+      "headquarters": {
+        "title": "全球总部",
+        "address_line1": "Portside Financial District, Suite 402",
+        "address_line2": "伦敦, EC3R 7AG, 英国",
+        "email1": "ops@deepbluecargo.com",
+        "email2": "secure@deepbluecargo.com",
+        "phone": "+44 (0) 20 7946 0122 (总部)",
+        "support": "24/7 优先支持"
+      }
+    },
+    
+    "legal": {
+      "copyright": "© {{year}} Deep Blue Cargo Ltd. 保留所有权利。",
+      "links": {
+        "privacy": "隐私政策",
+        "terms": "运输条款",
+        "incoterms": "Incoterms 2020指南"
+      },
+      "admin": {
+        "text": "管理门户",
+        "tooltip": "访问管理面板"
+      }
+    }
+  },
+   "testimonials": {
+    "tagline": "全球信赖",
+    "title_part1": "卓越之",
+    "title_part2": "声",
+    "description": "从独立珠宝商到跨国公司，我们的客户依赖深蓝货运的安全性、速度和绝对的专业诚信。",
+    "trust_note": "加入全球550多家企业，安心转移资产。",
+
+    "testimonial_items": [
+      {
+        "id": 1,
+        "title": "安全链优势",
+        "content": "将价值200万美元的未切割钻石从安特卫普运往迪拜曾经让我夜不能寐。深蓝货运的安全链协议改变了一切。他们对待每一克都像对待自己的财产一样。",
+        "name": "亚历山大·莫罗",
+        "position": "首席执行官, JewelSafe Holdings"
+      },
+      {
+        "id": 2,
+        "title": "拯救生命的物流",
+        "content": "当我们需要将温度敏感的药物运输到西非的乡村诊所时，深蓝货运在48小时内建立了一个定制的冷链解决方案。他们的适应性拯救了生命。",
+        "name": "汉娜·陈博士",
+        "position": "物流主管, Novartis Medical"
+      },
+      {
+        "id": 3,
+        "title": "保密与速度",
+        "content": "作为一家私募股权公司，我们经常在离岸实体之间转移敏感文件。深蓝快递网络的保密性和速度是无与伦比的。他们是我们自己安全团队的延伸。",
+        "name": "马库斯·索恩",
+        "position": "首席财务官, Blackwatch Capital"
+      },
+      {
+        "id": 4,
+        "title": "军事级精准",
+        "content": "将一件15世纪的杰作从佛罗伦萨运往东京需要军事级的精度。深蓝货运的白手套处理和实时环境监测让我们充满信心。",
+        "name": "伊莎贝拉·罗西",
+        "position": "艺术策展人, Palazzo Gallery"
+      },
+      {
+        "id": 5,
+        "title": "18个月零事故",
+        "content": "我们运往刚果民主共和国偏远地区的采矿设备曾经面临持续的延误和'损失'。自从与深蓝合作以来，我们在18个月内实现了零事故。他们的地面情报网络非常出色。",
+        "name": "詹姆斯·奥卡福",
+        "position": "运营总监, Pan-African Minerals"
+      }
+    ]
+  }
+}

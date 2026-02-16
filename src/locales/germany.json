@@ -1,0 +1,500 @@
+{
+"navbar": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "track": "Sendung verfolgen",
+    "contact": "Kontakt",
+    "address": "9170 Millbrook Rd, Newark, IL",
+    "email": "deepbluecargo@gmail.com"
+  },
+  "hero": {
+    "title": "Schnelle & Zuverlässige Logistiklösungen",
+    "subtitle": "Tür-zu-Tür-Lieferung in über 150 Ländern",
+    "track_placeholder": "Sendungsnummer eingeben",
+    "track_button": "Jetzt verfolgen",
+    "get_started": "Jetzt starten"
+  },
+ 
+   "about": {
+    "tagline": "Über Deep Blue Cargo",
+    "title_part1": "Präzisionslogistik für eine",
+    "title_part2": "grenzenlose Welt.",
+    "description1": "Bei Deep Blue Cargo bewegen wir nicht nur Fracht; wir navigieren durch die Komplexitäten des globalen Handels, damit Sie es nicht müssen. Gegründet auf den Prinzipien maritimer Exzellenz, sind wir zu einem erstklassigen End-to-End-Spezialisten geworden, der Kontinente durch ein nahtloses Netzwerk von Seerouten und strategischen Hafenpartnerschaften verbindet.",
+    "quote": "Das Meer ist kein Hindernis – es ist Ihr größter Vorteil.",
+    "features": {
+      "support": "24/7 weltweiter Support",
+      "security": "Sicherheitsketten-Protokoll",
+      "excellence": "Maritime Exzellenz",
+      "tracking": "Automatisierte Verfolgung"
+    },
+    "alt_images": {
+      "main": "Globaler Logistik-Hub",
+      "secondary": "Sichere Transportoperationen"
+    }
+  },
+  "services": {
+    "title": "UNSERE DIENSTLEISTUNGEN",
+    "heading": "Wir werden für unsere Dienstleistungen geschätzt",
+    "description": "Durch den Einsatz eines hochentwickelten Netzwerks globaler Logistikrouten bietet Deep Blue Cargo kompromisslose Sicherheit für Ihre wertvollsten Güter. Wir kombinieren Echtzeit-Tracking mit exklusiven Handhabungsprotokollen, um sicherzustellen, dass jede Sendung mit chirurgischer Präzision ankommt.",
+    
+    "services_list": {
+      "fcl": {
+        "title": "FCL-Versand",
+        "description": "Maximieren Sie Ihre Effizienz mit Vollcontainern. Wir bieten dedizierte 20-Fuß- und 40-Fuß-Containerlösungen mit Prioritätsplatz auf Schiffen und stellen sicher, dass Ihre Massengüter mit absoluter Sicherheit und Kosteneffizienz auf jeder wichtigen globalen Handelsroute transportiert werden.",
+        "alt": "Vollcontainer-Versand"
+      },
+      "lcl": {
+        "title": "LCL-Konsolidierung",
+        "description": "Große globale Reichweite für kleinere Sendungen. Unser Less-than-Container-Load-Service ermöglicht es Ihnen, nur für den genutzten Platz zu bezahlen. Wir konsolidieren Ihre Ladung fachmännisch mit anderen, um die wirtschaftlichsten Seefrachtpreise zu bieten, ohne die Transittempo zu beeinträchtigen.",
+        "alt": "Stückgut-Konsolidierung"
+      },
+      "port_to_door": {
+        "title": "Hafen-zu-Tür",
+        "description": "Nahtlose Integration von See- zu Binnentransport. Deep Blue Cargo übernimmt die gesamte Reise. Wir managen den komplexen Übergang vom Schiff zum LKW, inklusive Zollabwicklung und letzter Meile, und bieten Ihnen einen einzigen Verantwortungspunkt.",
+        "alt": "Hafen-zu-Tür-Lieferung"
+      }
+    }
+  },
+
+  "why_choose_us": {
+    "title": "WARUM UNS WÄHLEN",
+    "heading": "Der Ozean ist weit, aber Ihre Lieferkette sollte kein Geheimnis sein. Wir bieten die Stabilität, die Ihr Unternehmen für globales Wachstum benötigt.",
+    "description": "Globale Reichweite, lokale Expertise\nDie Navigation in internationalen Gewässern erfordert mehr als nur Schiffe; sie erfordert Wissen. Wir unterhalten ein robustes Netzwerk strategischer Hafenpartnerschaften und lokaler Zollexperten weltweit, um sicherzustellen, dass Ihre Fracht nahtlos über Grenzen hinweg bewegt wird, ohne die typischen bürokratischen Verzögerungen.",
+    
+    "features": {
+      "experience": "20+ Jahre Berufserfahrung",
+      "tracking": "24/7 Echtzeit-Seeverfolgung",
+      "ports": "50+ bedeutende globale Häfen bedient",
+      "safety": "99.9% Frachtsicherheitsbewertung"
+    },
+    
+    "image_alt": "Moderne Lager- und Logistikbetriebe"
+  },
+
+  "achievements": {
+    "packages": "Ausgelieferte Pakete",
+    "countries": "Abgedeckte Länder",
+    "clients": "Zufriedene Kunden",
+    "goods": "Tonnen Güter"
+  },
+  "security": {
+    "tagline": "Sicherheit zuerst",
+    "title_part1": "Deep Blue",
+    "title_part2": "Sicherheitsprotokoll",
+    "description": "Maximaler Schutz für Ihre wertvollsten Vermögenswerte. Wir liefern nicht nur; wir bewahren das Unersetzliche durch ein mehrschichtiges Verteidigungssystem.",
+    
+    "protocols": {
+      "packaging": {
+        "title": "Manipulationssichere Verpackung",
+        "description": "Jede hochwertige Sendung wird in medizinische TEB-Beutel mit Heißschmelz-Klebstofftechnik versiegelt, die jegliche Einwirkung sofort sichtbar macht."
+      },
+      "discreet": {
+        "title": "Diskrete 'unsichtbare' Logistik",
+        "description": "Wir verwenden Blindetikettierung ohne Inhalts- oder Wertangaben auf der Außenseite, um sicherzustellen, dass Ihre Vermögenswerte während des Transports kein Ziel darstellen."
+      },
+      "custody": {
+        "title": "Verifizierte Besitzkette",
+        "description": "Eine strenge digitale Prüfspur verfolgt jede Übergabe. Mitarbeiter müssen ihre eindeutige ID an jedem Scanpunkt von der Abholung bis zur Lieferung verifizieren."
+      },
+      "signature": {
+        "title": "Verzichtsfreie Unterschrift",
+        "description": "Keine Haustür-Ablieferungen. Wir verlangen eine obligatorische amtliche Ausweiskontrolle und eine physische Unterschrift für jede Sicherheitsketten-Lieferung."
+      }
+    },
+    
+    "trust_footer": {
+      "title": "100% versicherter Transport",
+      "description": "Jede hochwertige Sendung wird durch unsere globale Sicherheitsgarantie abgesichert.",
+      "button": "Es dreht sich alles um Sicherheit"
+    }
+  },
+  "tracking": {
+    "tab_title": "Paket verfolgen",
+    "title": "Ihre Sendung verfolgen",
+    "description": "Geben Sie Ihre Sendungsnummer ein, um Echtzeit-Updates zu Ihrem Paket zu erhalten",
+    "input_label": "Sendungsnummer",
+    "input_placeholder": "Sendungsnummer eingeben (z.B. SHIP123456789)",
+    "track_button": "Paket verfolgen",
+    "tracking_loading": "Wird verfolgt...",
+    
+    "error": {
+      "empty": "Bitte geben Sie eine Sendungsnummer ein",
+      "not_found": "Sendungsnummer nicht gefunden. Bitte überprüfen Sie und versuchen Sie es erneut.",
+      "fetch_error": "Fehler beim Abrufen der Sendungsverfolgungsinformationen. Bitte versuchen Sie es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    
+    "example": "Beispiel-Sendungsnummern:",
+    
+    "results": {
+      "header": "Sendungsdetails",
+      "created": "Erstellt:",
+      "status": {
+        "delivered": "Zugestellt",
+        "in_transit": "Unterwegs",
+        "out_for_delivery": "In Zustellung",
+        "pending": "Ausstehend"
+      }
+    },
+    
+    "route": {
+      "title": "Versandroute & Aktueller Standort",
+      "origin": "Ursprung",
+      "current_location": "Aktueller Standort",
+      "destination": "Ziel"
+    },
+    
+    "route_info": {
+      "title": "Routeninformationen",
+      "distance": "Entfernung:",
+      "progress": "Reisefortschritt:",
+      "carrier": "Beförderer:",
+      "transport_mode": "Transportart:"
+    },
+    
+    "time_info": {
+      "title": "Zeitinformationen",
+      "departure": "Abfahrt:",
+      "arrival": "Voraussichtliche Ankunft:",
+      "transit_days": "Transittage:",
+      "current_status": "Aktueller Status:"
+    },
+    
+    "sender": {
+      "title": "Absender",
+      "name": "Absendername",
+      "address": "Absenderadresse",
+      "phone": "Absendertel."
+    },
+    
+    "recipient": {
+      "title": "Empfänger",
+      "name": "Empfängername",
+      "address": "Empfängeradresse",
+      "phone": "Empfängertel."
+    },
+    
+    "package_details": {
+      "title": "Paketdetails",
+      "name": "Name:",
+      "type": "Typ:",
+      "weight": "Gewicht:"
+    },
+    
+    "service": {
+      "title": "Service & Zustellung",
+      "service_type": "Service:",
+      "estimated": "Geschätzt:",
+      "reference": "Referenz:"
+    },
+    
+    "specifications": {
+      "title": "Paketspezifikationen",
+      "dimensions": "Abmessungen",
+      "length": "Länge",
+      "width": "Breite",
+      "height": "Höhe",
+      "nature": "Art & Wert",
+      "contents": "Inhalt:",
+      "value": "Wert:",
+      "additional_info": "Zusätzliche Informationen",
+      "insurance": "Versicherung:",
+      "signature_required": "Unterschrift erforderlich:",
+      "priority": "Priorität:"
+    },
+    
+    "timeline": {
+      "title": "Sendungsverlauf",
+      "no_events": "Keine Sendungsereignisse verfügbar.",
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "location": "Ort"
+    },
+    
+    "actions": {
+      "track_another": "Weiteres Paket verfolgen",
+      "clear": "Löschen"
+    },
+    
+    "default_values": {
+      "carrier": "Standard-Beförderer",
+      "transport_mode": "Landtransport",
+      "package_name": "Standard-Paket",
+      "package_type": "Allgemein",
+      "nature": "Allgemeine Waren",
+      "contents": "Nicht angegeben",
+      "value": "Nicht deklariert",
+      "reference": "N/V"
+    }
+  },
+  
+  "common": {
+    "days": "{{count}} Tag",
+    "days_plural": "{{count}} Tage",
+    "yes": "Ja",
+    "no": "Nein",
+    "insured_yes": "Versichert ✓",
+    "insured_no": "Nicht versichert"
+  },
+  "pricing": {
+    "title_part1": "Erhalten Sie eine",
+    "title_part2": "Sofort-Schätzung",
+    "description": "Transparente Preise ohne versteckte Zusatzgebühren. Wählen Sie Ihre Geschwindigkeit, schützen Sie Ihren Wert und versenden Sie mit Vertrauen.",
+    
+    "features": {
+      "priority": {
+        "title": "Prioritätsbearbeitung",
+        "description": "Alle Angebote beinhalten Premium-Zollabwicklung als Standard."
+      },
+      "insurance": {
+        "title": "Standardmäßig versichert",
+        "description": "Basisversicherung bis zu 500$ für jedes Paket."
+      }
+    },
+    
+    "note": {
+      "title": "Hinweis zu hochwertigen Artikeln",
+      "text": "Für hochwertige Artikel wie Schmuck oder Geldketten wählen Sie bitte die 'Value-Chain'-Stufe für spezialisierte bewaffnete Transportprotokolle."
+    },
+    
+    "tiers": {
+      "express_docs": {
+        "title": "Prioritätsdokumente",
+        "description": "Rechtsdokumente und Verträge. Weltweite Lieferung in 24-48 Stunden.",
+        "price": "Ab $29.00",
+        "badge": ""
+      },
+      "secure_value": {
+        "title": "Sichere Wertschöpfungskette",
+        "description": "Schmuck, Uhren & Geldketten. Inklusive bewaffneter Abholung und TEB-Versiegelung.",
+        "price": "Individuelles Angebot",
+        "badge": "Am sichersten"
+      },
+      "standard_parcel": {
+        "title": "Globaler Paket-Express",
+        "description": "Standardware unter 20kg. Effizientes grenzüberschreitendes Routing.",
+        "price": "Ab $45.00",
+        "badge": ""
+      }
+    }
+  },
+  "quote_form": {
+    "title": "Angebot anfordern",
+    
+    "tabs": {
+      "courier": "Express-Kurier",
+      "freight": "Großfracht"
+    },
+    
+    "labels": {
+      "route_details": "Routendetails",
+      "cargo_info": "Frachtinformationen",
+      "pickup_location": "Abholungsland und -stadt",
+      "delivery_location": "Lieferland und -stadt",
+      "weight_placeholder_courier": "Gewicht (kg)",
+      "weight_placeholder_freight": "Gesamttonnen",
+      "value_placeholder": "Wert ($)",
+      "commodity": "Warengut auswählen",
+      "incoterm": "Incoterm wählen (Versandbedingungen)",
+      "incoterm_note": "Unsicher? Wählen Sie DDP für einen vollständigen Lieferservice.",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer (WhatsApp)"
+    },
+    
+    "commodity_options": {
+      "courier": {
+        "documents": "Dokumente / Rechtsdokumente",
+        "jewelry": "Schmuck / Geldkette",
+        "electronics": "Hochwertige Elektronik"
+      },
+      "freight": {
+        "general": "Allgemeine Fracht (LCL)",
+        "container": "Vollcontainer (FCL)",
+        "machinery": "Industriemaschinen"
+      }
+    },
+    
+    "incoterm_options": {
+      "EXW": "EXW - Ex Works (Abholung am Ursprung)",
+      "FOB": "FOB - Free On Board (Verladung zum Hafen)",
+      "CIF": "CIF - Kosten, Versicherung, Fracht (Zum Bestimmungshafen)",
+      "DDP": "DDP - Delivered Duty Paid (An Ihre Tür)"
+    },
+    
+    "secure_chain": {
+      "title": "Secure-Chain-Protokoll anwenden?",
+      "description": "Für Schmuck, Geldketten und sensible Werte."
+    },
+    
+    "submit_button": {
+      "default": "Mein Angebot generieren",
+      "loading": "Wird verarbeitet..."
+    },
+    
+    "success": {
+      "title": "Anfrage übermittelt",
+      "reference": "REF ID:",
+      "review_title": "Anforderungen werden geprüft",
+      "review_description": "Unser Logistik-Team berechnet Zollsätze und Flugverfügbarkeit.",
+      "security_title": "Sicherheitsprüfung",
+      "security_description": "Ihre hochwertige Anfrage wurde zur Prioritätsbearbeitung gekennzeichnet.",
+      "confirmation": "Ein detailliertes Angebot wird Ihnen innerhalb von 15 Minuten per E-Mail zugesandt.",
+      "another_request": "Weitere Anfrage senden"
+    }
+  },
+   "contact": {
+    "title": "Kontakt aufnehmen",
+    "description": "Fragen zu Hochwertlogistik oder unseren Secure-Chain-Protokollen? Unsere Spezialisten sind 24/7 verfügbar.",
+    
+    "features": {
+      "response_time": {
+        "label": "Antwortzeit",
+        "value": "Unter 15 Minuten"
+      },
+      "security_status": {
+        "label": "Sicherheitsstatus",
+        "value": "Ende-zu-Ende verschlüsselt"
+      }
+    },
+    
+    "official_channel": "Offizieller Kanal:",
+    "email": "ops@deepbluecargo.com",
+    
+    "form": {
+      "email_label": "E-Mail-Adresse",
+      "email_placeholder": "Geben Sie Ihre geschäftliche E-Mail-Adresse ein",
+      "message_label": "Anfragedetails",
+      "message_placeholder": "Beschreiben Sie kurz Ihre Fracht oder logistischen Anforderungen...",
+      "submit_button": "SENDEN"
+    }
+  },
+  "faq": {
+    "title_part1": "Häufige",
+    "title_part2": "Fragen",
+    "description": "Alles, was Sie über den Versand mit Deep Blue Cargo wissen müssen.",
+    
+    "items": [
+      {
+        "question": "Wie sichern Sie hochwertige Artikel wie Schmuck oder Geldketten?",
+        "answer": "Wir verwenden ein 'Secure-Chain'-Protokoll, das 3-schichtige manipulationssichere Verpackung, Blindetikettierung (keine Inhaltsangaben auf der Box) und eine verpflichtende GPS-verfolgte Besitzkette umfasst. Ihre Artikel werden nie unbeaufsichtigt gelassen."
+      },
+      {
+        "question": "Was ist das maximale Gewicht für den Express-Kurierdienst?",
+        "answer": "Unser Kurierzweig konzentriert sich auf leichte, hochprioritäre Sendungen. Wir bearbeiten typischerweise Pakete bis zu 30kg (66lbs). Für schwerere Artikel wenden Sie sich bitte an unsere Frachtabteilung für ein LCL-Angebot."
+      },
+      {
+        "question": "Muss ich Zollgebühren und Steuern separat bezahlen?",
+        "answer": "Dies hängt von Ihrem gewählten Incoterm ab. Für DDP (Delivered Duty Paid) schließen wir alle Steuern in Ihr Angebot ein. Bei anderen Bedingungen kann der Zoll den Empfänger vor der endgültigen Freigabe zur Zahlung kontaktieren."
+      },
+      {
+        "question": "Was passiert, wenn eine hochwertige Sendung verspätet ist?",
+        "answer": "Obwohl wir eine 99%ige Pünktlichkeitsquote aufrechterhalten, kann der internationale Zoll Artikel gelegentlich zur Überprüfung zurückhalten. Wir bieten Echtzeit-Updates und haben dedizierte Makler, um den Abfertigungsprozess zu beschleunigen."
+      },
+      {
+        "question": "Ist meine Sendung während des internationalen Transits versichert?",
+        "answer": "Ja. Jede Sendung beinhaltet eine Basisversicherung. Für hochwertige Vermögenswerte wie Schmuck bieten wir 'Full Value Protection' an, die 100% des deklarierten Werts des Artikels gegen Verlust oder Beschädigung abdeckt."
+      }
+    ],
+    
+    "contact_cta": "Noch Fragen?",
+    "contact_link": "Kontaktieren Sie unser 24/7 Support-Team"
+  },
+  "footer": {
+    "brand": {
+      "name_part1": "Deep Blue",
+      "name_part2": "Cargo",
+      "description": "Der globale Marktführer in der Logistik hochwertiger Vermögenswerte. Spezialisiert auf sichere 'Geldkette'-Transfers, Luxusuhren und kritische Industriefracht."
+    },
+    
+    "sections": {
+      "services": {
+        "title": "Spezialisierte Dienstleistungen",
+        "items": [
+          "Sichere Geldkette",
+          "Schmuck & Barren",
+          "Seefracht (FCL/LCL)",
+          "Express-Luftkurier",
+          "Zollabwicklung"
+        ]
+      },
+      "company": {
+        "title": "Unternehmen",
+        "items": [
+          "Über unsere Mission",
+          "Globales Netzwerk",
+          "Sicherheitsprotokolle",
+          "Karriere",
+          "Kontaktschalter"
+        ]
+      },
+      "headquarters": {
+        "title": "Weltweite Zentrale",
+        "address_line1": "Portside Financial District, Suite 402",
+        "address_line2": "London, EC3R 7AG, Vereinigtes Königreich",
+        "email1": "ops@deepbluecargo.com",
+        "email2": "secure@deepbluecargo.com",
+        "phone": "+44 (0) 20 7946 0122 (Zentrale)",
+        "support": "24/7 Prioritäts-Support"
+      }
+    },
+    
+    "legal": {
+      "copyright": "© {{year}} Deep Blue Cargo Ltd. Alle Rechte vorbehalten.",
+      "links": {
+        "privacy": "Datenschutzrichtlinie",
+        "terms": "Beförderungsbedingungen",
+        "incoterms": "Incoterms 2020 Leitfaden"
+      },
+      "admin": {
+        "text": "Admin-Portal",
+        "tooltip": "Zum Administrationsbereich"
+      }
+    }
+  },
+  "testimonials": {
+    "tagline": "Globales Vertrauen",
+    "title_part1": "Stimmen der",
+    "title_part2": "Exzellenz",
+    "description": "Von unabhängigen Juwelieren bis hin zu multinationalen Konzernen vertrauen unsere Kunden auf Deep Blue Cargo für Sicherheit, Geschwindigkeit und absolute professionelle Integrität.",
+    "trust_note": "Schließen Sie sich weltweit 550+ Unternehmen an, die ihre Vermögenswerte mit vollkommener Ruhe bewegen.",
+
+    "testimonial_items": [
+      {
+        "id": 1,
+        "title": "Der Secure-Chain-Vorteil",
+        "content": "Die Bewegung von 2 Millionen Dollar ungeschliffener Diamanten von Antwerpen nach Dubai ließ mich früher schlaflose Nächte haben. Das Secure-Chain-Protokoll von Deep Blue Cargo hat alles verändert. Sie behandeln jedes Gramm, als wäre es ihr eigenes.",
+        "name": "Alexandre Moreau",
+        "position": "CEO, JewelSafe Holdings"
+      },
+      {
+        "id": 2,
+        "title": "Lebensrettende Logistik",
+        "content": "Als wir temperaturempfindliche Arzneimittel zu ländlichen Kliniken in Westafrika transportieren mussten, baute Deep Blue Cargo in 48 Stunden eine maßgeschneiderte Kühlkettenlösung. Ihre Anpassungsfähigkeit hat Leben gerettet.",
+        "name": "Dr. Hannah Chen",
+        "position": "Logistikleiterin, Novartis Medical"
+      },
+      {
+        "id": 3,
+        "title": "Diskretion & Geschwindigkeit",
+        "content": "Als Private-Equity-Firma bewegen wir regelmäßig sensible Dokumente zwischen Offshore-Entitäten. Die Diskretion und Geschwindigkeit des Kuriernetzes von Deep Blue ist unübertroffen. Sie sind eine Erweiterung unseres eigenen Sicherheitsteams.",
+        "name": "Marcus Thorne",
+        "position": "CFO, Blackwatch Capital"
+      },
+      {
+        "id": 4,
+        "title": "Militärische Präzision",
+        "content": "Der Versand eines Meisterwerks aus dem 15. Jahrhundert von Florenz nach Tokio erforderte militärische Präzision. Der Weißhandschuh-Handling und die Echtzeit-Umweltüberwachung von Deep Blue Cargo gaben uns volles Vertrauen.",
+        "name": "Isabella Rossi",
+        "position": "Kunstkuratorin, Palazzo Gallery"
+      },
+      {
+        "id": 5,
+        "title": "Null Vorfälle in 18 Monaten",
+        "content": "Unsere Bergbauausrüstungs-Lieferungen an abgelegene Standorte in der DR Kongo waren ständigen Verzögerungen und 'Verlusten' ausgesetzt. Seit der Partnerschaft mit Deep Blue hatten wir in 18 Monaten null Vorfälle. Ihr Boden-Nachrichtennetzwerk ist phänomenal.",
+        "name": "James Okafor",
+        "position": "Operationsdirektor, Pan-African Minerals"
+      }
+    ]
+  }
+}

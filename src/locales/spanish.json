@@ -1,0 +1,502 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "track": "Rastrear envío",
+    "contact": "Contacto",
+    "address": "9170 Millbrook Rd, Newark, IL",
+    "email": "deepbluecargo@gmail.com"
+  },
+
+  "hero": {
+    "welcome": "BIENVENIDO A DEEP BLUE CARGO",
+    "title": "Obtenga el mejor soporte de transporte y logística",
+    "subtitle": "Únase a millones que obtienen ofertas en el envío de autos, muebles, carga y más",
+    "get_quote": "Obtener cotización",
+    "track_placeholder": "Número de seguimiento",
+    "track_button": "Rastrear ahora",
+    "get_started": "Comenzar"
+  },
+  "about": {
+    "tagline": "Acerca de Deep Blue Cargo",
+    "title_part1": "Logística de precisión para un mundo",
+    "title_part2": "sin fronteras.",
+    "description1": "En Deep Blue Cargo, no solo movemos carga; navegamos por las complejidades del comercio global para que usted no tenga que hacerlo. Fundada sobre los principios de la excelencia marítima, nos hemos convertido en un especialista integral de primer nivel, conectando continentes a través de una red fluida de rutas oceánicas y asociaciones portuarias estratégicas.",
+    "quote": "El océano no es un obstáculo, es tu mayor ventaja.",
+    "features": {
+      "support": "Soporte global 24/7",
+      "security": "Protocolo de cadena segura",
+      "excellence": "Excelencia marítima",
+      "tracking": "Seguimiento automatizado"
+    },
+    "alt_images": {
+      "main": "Centro logístico global",
+      "secondary": "Operaciones de transporte seguras"
+    }
+  },
+  "services": {
+    "title": "NUESTROS SERVICIOS",
+    "heading": "Somos confiables por nuestros servicios",
+    "description": "Desplegando una red sofisticada de rutas logísticas globales, Deep Blue Cargo proporciona seguridad innegociable para sus activos más valiosos. Combinamos el seguimiento en tiempo real con protocolos de manejo exclusivos para garantizar que cada envío llegue con precisión quirúrgica.",
+    
+    "services_list": {
+      "fcl": {
+        "title": "Envío FCL",
+        "description": "Maximice su eficiencia con contenedores completos. Proporcionamos soluciones dedicadas de contenedores de 20 y 40 pies con espacio prioritario en buques, garantizando que su carga a granel se mueva con seguridad absoluta y rentabilidad en cada ruta comercial global importante.",
+        "alt": "Envío de contenedor completo"
+      },
+      "lcl": {
+        "title": "Consolidación LCL",
+        "description": "Gran alcance global para envíos más pequeños. Nuestro servicio de menos de un contenedor le permite pagar solo por el espacio que utiliza. Consolidamos expertamente su carga con otras para proporcionar las tarifas de flete marítimo más económicas sin comprometer la velocidad de tránsito.",
+        "alt": "Consolidación de menos de un contenedor"
+      },
+      "port_to_door": {
+        "title": "Puerto-a-Puerta",
+        "description": "Integración perfecta del océano al interior. Deep Blue Cargo maneja todo el viaje. Gestionamos la compleja transferencia del buque al camión, incluido el despacho de aduanas y la entrega de la última milla, proporcionándole un único punto de responsabilidad.",
+        "alt": "Entrega puerto a puerta"
+      }
+    }
+  },
+
+  "why_choose_us": {
+    "title": "POR QUÉ ELEGIRNOS",
+    "heading": "El océano es vasto, pero su cadena de suministro no debería ser un misterio. Proporcionamos la estabilidad que su negocio necesita para crecer globalmente.",
+    "description": "Alcance global, experiencia local\nNavegar por aguas internacionales requiere más que solo barcos; requiere conocimiento. Mantenemos una red robusta de asociaciones portuarias estratégicas y expertos en aduanas locales en todo el mundo, asegurando que su carga se mueva sin problemas a través de las fronteras sin los típicos retrasos burocráticos.",
+    
+    "features": {
+      "experience": "20+ años de experiencia laboral",
+      "tracking": "Seguimiento marítimo en tiempo real 24/7",
+      "ports": "50+ puertos globales importantes atendidos",
+      "safety": "99.9% de calificación de seguridad de carga"
+    },
+    
+    "image_alt": "Operaciones modernas de almacén y logística"
+  },
+
+  "achievements": {
+    "packages": "Paquetes Entregados",
+    "countries": "Países Cubiertos",
+    "clients": "Clientes Satisfechos",
+    "goods": "Toneladas de Mercancías"
+  },
+  "security": {
+    "tagline": "Seguridad primero",
+    "title_part1": "Deep Blue",
+    "title_part2": "Protocolo de seguridad",
+    "description": "Protección máxima para sus activos más valiosos. No solo entregamos; salvaguardamos lo irreemplazable a través de un sistema de defensa multicapa.",
+    
+    "protocols": {
+      "packaging": {
+        "title": "Embalaje con evidencia de manipulación",
+        "description": "Cada envío de alto valor se sella en bolsas TEB de grado médico con tecnología de adhesivo termofusible que revela instantáneamente cualquier interferencia."
+      },
+      "discreet": {
+        "title": "Logística discreta 'invisible'",
+        "description": "Utilizamos etiquetado ciego sin mención del contenido o valor en el exterior, asegurando que sus activos no sean un objetivo durante el tránsito."
+      },
+      "custody": {
+        "title": "Cadena de custodia verificada",
+        "description": "Un estricto rastro de auditoría digital rastrea cada transferencia. Los empleados deben verificar su ID único en cada punto de escaneo desde la recogida hasta la entrega."
+      },
+      "signature": {
+        "title": "Firma sin exención",
+        "description": "No se dejan paquetes en la puerta. Requerimos verificación obligatoria de identificación gubernamental y una firma física para cada entrega de cadena segura."
+      }
+    },
+    
+    "trust_footer": {
+      "title": "Tránsito 100% asegurado",
+      "description": "Cada envío de alto valor está respaldado por nuestra garantía de seguridad global.",
+      "button": "Se trata de seguridad"
+    }
+  },
+  "tracking": {
+    "tab_title": "Rastrear su paquete",
+    "title": "Rastrear su envío",
+    "description": "Ingrese su número de seguimiento para obtener actualizaciones en tiempo real sobre su paquete",
+    "input_label": "Número de seguimiento",
+    "input_placeholder": "Ingrese el número de seguimiento (ej. SHIP123456789)",
+    "track_button": "Rastrear paquete",
+    "tracking_loading": "Rastreando...",
+    
+    "error": {
+      "empty": "Por favor ingrese un número de seguimiento",
+      "not_found": "Número de seguimiento no encontrado. Por favor verifique e intente nuevamente.",
+      "fetch_error": "Error al obtener información de seguimiento. Por favor intente nuevamente.",
+      "unexpected": "Ocurrió un error inesperado. Por favor intente nuevamente."
+    },
+    
+    "example": "Ejemplos de números de seguimiento:",
+    
+    "results": {
+      "header": "Detalles del envío",
+      "created": "Creado:",
+      "status": {
+        "delivered": "Entregado",
+        "in_transit": "En tránsito",
+        "out_for_delivery": "En reparto",
+        "pending": "Pendiente"
+      }
+    },
+    
+    "route": {
+      "title": "Ruta de envío y ubicación actual",
+      "origin": "Origen",
+      "current_location": "Ubicación actual",
+      "destination": "Destino"
+    },
+    
+    "route_info": {
+      "title": "Información de ruta",
+      "distance": "Distancia:",
+      "progress": "Progreso del viaje:",
+      "carrier": "Transportista:",
+      "transport_mode": "Modo de transporte:"
+    },
+    
+    "time_info": {
+      "title": "Información de tiempo",
+      "departure": "Salida:",
+      "arrival": "Llegada estimada:",
+      "transit_days": "Días de tránsito:",
+      "current_status": "Estado actual:"
+    },
+    
+    "sender": {
+      "title": "Remitente",
+      "name": "Nombre del remitente",
+      "address": "Dirección del remitente",
+      "phone": "Teléfono del remitente"
+    },
+    
+    "recipient": {
+      "title": "Destinatario",
+      "name": "Nombre del destinatario",
+      "address": "Dirección del destinatario",
+      "phone": "Teléfono del destinatario"
+    },
+    
+    "package_details": {
+      "title": "Detalles del paquete",
+      "name": "Nombre:",
+      "type": "Tipo:",
+      "weight": "Peso:"
+    },
+    
+    "service": {
+      "title": "Servicio y entrega",
+      "service_type": "Servicio:",
+      "estimated": "Estimado:",
+      "reference": "Referencia:"
+    },
+    
+    "specifications": {
+      "title": "Especificaciones del paquete",
+      "dimensions": "Dimensiones",
+      "length": "Largo",
+      "width": "Ancho",
+      "height": "Alto",
+      "nature": "Naturaleza y valor",
+      "contents": "Contenido:",
+      "value": "Valor:",
+      "additional_info": "Información adicional",
+      "insurance": "Seguro:",
+      "signature_required": "Firma requerida:",
+      "priority": "Prioridad:"
+    },
+    
+    "timeline": {
+      "title": "Historial de seguimiento",
+      "no_events": "No hay eventos de seguimiento disponibles.",
+      "date": "Fecha",
+      "time": "Hora",
+      "location": "Ubicación"
+    },
+    
+    "actions": {
+      "track_another": "Rastrear otro paquete",
+      "clear": "Limpiar"
+    },
+    
+    "default_values": {
+      "carrier": "Transportista estándar",
+      "transport_mode": "Transporte terrestre",
+      "package_name": "Paquete estándar",
+      "package_type": "General",
+      "nature": "Mercancías generales",
+      "contents": "No especificado",
+      "value": "No declarado",
+      "reference": "N/A"
+    }
+  },
+  
+  "common": {
+    "days": "{{count}} día",
+    "days_plural": "{{count}} días",
+    "yes": "Sí",
+    "no": "No",
+    "insured_yes": "Asegurado ✓",
+    "insured_no": "No asegurado"
+  },
+  "pricing": {
+    "title_part1": "Obtenga un",
+    "title_part2": "Estimado Instantáneo",
+    "description": "Precios transparentes sin cargos ocultos. Elija su velocidad, proteja su valor y envíe con confianza.",
+    
+    "features": {
+      "priority": {
+        "title": "Procesamiento Prioritario",
+        "description": "Todos los cotizaciones incluyen corretaje aduanero premium como estándar."
+      },
+      "insurance": {
+        "title": "Asegurado por Defecto",
+        "description": "Seguro básico cubierto hasta $500 por cada paquete."
+      }
+    },
+    
+    "note": {
+      "title": "Nota sobre Artículos de Alto Valor",
+      "text": "Para artículos de alto valor como joyería o cadenas monetarias, seleccione el nivel 'Value-Chain' para protocolos de transporte armado especializado."
+    },
+    
+    "tiers": {
+      "express_docs": {
+        "title": "Documentos Prioritarios",
+        "description": "Documentos legales y contratos. Entrega global en 24-48 horas.",
+        "price": "Desde $29.00",
+        "badge": ""
+      },
+      "secure_value": {
+        "title": "Cadena de Valor Segura",
+        "description": "Joyería, relojes y cadenas monetarias. Incluye recogida armada y sellado TEB.",
+        "price": "Cotización Personalizada",
+        "badge": "Más Seguro"
+      },
+      "standard_parcel": {
+        "title": "Paquete Express Global",
+        "description": "Bienes estándar menores a 20kg. Enrutamiento transfronterizo eficiente.",
+        "price": "Desde $45.00",
+        "badge": ""
+      }
+    }
+  },
+  "quote_form": {
+    "title": "Solicitar cotización",
+    
+    "tabs": {
+      "courier": "Mensajería Express",
+      "freight": "Carga Mayor"
+    },
+    
+    "labels": {
+      "route_details": "Detalles de la ruta",
+      "cargo_info": "Información de la carga",
+      "pickup_location": "País y ciudad de recogida",
+      "delivery_location": "País y ciudad de entrega",
+      "weight_placeholder_courier": "Peso (kg)",
+      "weight_placeholder_freight": "Toneladas totales",
+      "value_placeholder": "Valor ($)",
+      "commodity": "Seleccionar mercancía",
+      "incoterm": "Seleccionar Incoterm (Términos de envío)",
+      "incoterm_note": "¿No está seguro? Seleccione DDP para servicio de entrega completo.",
+      "email": "Correo electrónico",
+      "phone": "Número de teléfono (WhatsApp)"
+    },
+    
+    "commodity_options": {
+      "courier": {
+        "documents": "Documentos / Legales",
+        "jewelry": "Joyería / Cadena monetaria",
+        "electronics": "Electrónica de alto valor"
+      },
+      "freight": {
+        "general": "Carga general (LCL)",
+        "container": "Contenedor completo (FCL)",
+        "machinery": "Maquinaria industrial"
+      }
+    },
+    
+    "incoterm_options": {
+      "EXW": "EXW - Ex Works (Recogida en origen)",
+      "FOB": "FOB - Free On Board (Carga al puerto)",
+      "CIF": "CIF - Costo, Seguro y Flete (Al puerto de destino)",
+      "DDP": "DDP - Delivered Duty Paid (A su puerta)"
+    },
+    
+    "secure_chain": {
+      "title": "¿Aplicar protocolo Secure-Chain?",
+      "description": "Para joyería, cadenas monetarias y activos sensibles."
+    },
+    
+    "submit_button": {
+      "default": "Generar mi cotización",
+      "loading": "Procesando..."
+    },
+    
+    "success": {
+      "title": "Solicitud transmitida",
+      "reference": "REF ID:",
+      "review_title": "Revisando requisitos",
+      "review_description": "Nuestro escritorio logístico está calculando tasas aduaneras y disponibilidad de vuelos.",
+      "security_title": "Auditoría de seguridad",
+      "security_description": "Su solicitud de alto valor ha sido marcada para manejo prioritario.",
+      "confirmation": "Se enviará una cotización detallada a su correo electrónico dentro de 15 minutos.",
+      "another_request": "Enviar otra solicitud"
+    }
+  },
+  "contact": {
+    "title": "Póngase en contacto",
+    "description": "¿Tiene preguntas sobre logística de alto valor o nuestros protocolos Secure-Chain? Nuestros especialistas están disponibles 24/7.",
+    
+    "features": {
+      "response_time": {
+        "label": "Tiempo de respuesta",
+        "value": "Menos de 15 minutos"
+      },
+      "security_status": {
+        "label": "Estado de seguridad",
+        "value": "Cifrado de extremo a extremo"
+      }
+    },
+    
+    "official_channel": "Canal oficial:",
+    "email": "ops@deepbluecargo.com",
+    
+    "form": {
+      "email_label": "Dirección de correo electrónico",
+      "email_placeholder": "Ingrese su correo electrónico profesional",
+      "message_label": "Detalles de la consulta",
+      "message_placeholder": "Describa brevemente su carga o requisitos logísticos...",
+      "submit_button": "ENVIAR"
+    }
+  },
+   "faq": {
+    "title_part1": "Preguntas",
+    "title_part2": "Frecuentes",
+    "description": "Todo lo que necesita saber sobre el envío con Deep Blue Cargo.",
+    
+    "items": [
+      {
+        "question": "¿Cómo aseguran artículos de alto valor como joyería o cadenas monetarias?",
+        "answer": "Utilizamos un protocolo 'Secure-Chain' que incluye embalaje con evidencia de manipulación de 3 capas, etiquetado ciego (sin contenido mencionado en la caja) y una cadena de custodia obligatoria con seguimiento GPS. Sus artículos nunca se dejan desatendidos."
+      },
+      {
+        "question": "¿Cuál es el peso máximo para el servicio de mensajería express?",
+        "answer": "Nuestra rama de mensajería se centra en envíos ligeros y de alta prioridad. Normalmente manejamos paquetes de hasta 30kg (66lbs). Para cualquier cosa más pesada, contacte a nuestra división de carga para una cotización LCL."
+      },
+      {
+        "question": "¿Tendré que pagar derechos de aduana e impuestos por separado?",
+        "answer": "Esto depende del Incoterm elegido. Para DDP (Delivered Duty Paid), incluimos todos los impuestos en su cotización. Para otros términos, la aduana puede contactar al receptor para el pago antes de la liberación final."
+      },
+      {
+        "question": "¿Qué sucede si se retrasa un envío de alto valor?",
+        "answer": "Si bien mantenemos un récord de puntualidad del 99%, las aduanas internacionales pueden ocasionalmente retener artículos para inspección. Proporcionamos actualizaciones en tiempo real y tenemos agentes dedicados para agilizar el proceso de desaduanaje."
+      },
+      {
+        "question": "¿Mi envío está asegurado durante el tránsito internacional?",
+        "answer": "Sí. Cada envío incluye un seguro base. Para activos de alto valor como joyería, ofrecemos 'Protección de Valor Completo' que cubre el 100% del valor declarado del artículo contra pérdida o daño."
+      }
+    ],
+    
+    "contact_cta": "¿Aún tiene preguntas?",
+    "contact_link": "Contacte a nuestro equipo de soporte 24/7"
+  },
+  "footer": {
+    "brand": {
+      "name_part1": "Deep Blue",
+      "name_part2": "Cargo",
+      "description": "El líder global en logística de activos de alto valor. Especializado en transferencias seguras de 'cadenas monetarias', relojes de lujo y carga industrial crítica."
+    },
+    
+    "sections": {
+      "services": {
+        "title": "Servicios Especializados",
+        "items": [
+          "Cadena Monetaria Segura",
+          "Joyería & Lingotes",
+          "Flete Marítimo (FCL/LCL)",
+          "Mensajería Aérea Express",
+          "Agente de Aduanas"
+        ]
+      },
+      "company": {
+        "title": "Empresa",
+        "items": [
+          "Sobre Nuestra Misión",
+          "Red Global",
+          "Protocolos de Seguridad",
+          "Carreras",
+          "Mesa de Contacto"
+        ]
+      },
+      "headquarters": {
+        "title": "Sede Mundial",
+        "address_line1": "Portside Financial District, Suite 402",
+        "address_line2": "Londres, EC3R 7AG, Reino Unido",
+        "email1": "ops@deepbluecargo.com",
+        "email2": "secure@deepbluecargo.com",
+        "phone": "+44 (0) 20 7946 0122 (Sede)",
+        "support": "Soporte Prioritario 24/7"
+      }
+    },
+    
+    "legal": {
+      "copyright": "© {{year}} Deep Blue Cargo Ltd. Todos los derechos reservados.",
+      "links": {
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Transporte",
+        "incoterms": "Guía Incoterms 2020"
+      },
+      "admin": {
+        "text": "Portal Admin",
+        "tooltip": "Acceder al panel de administración"
+      }
+    }
+  },
+  "testimonials": {
+    "tagline": "Confianza Global",
+    "title_part1": "Voces de",
+    "title_part2": "Excelencia",
+    "description": "Desde joyeros independientes hasta corporaciones multinacionales, nuestros clientes confían en Deep Blue Cargo por seguridad, velocidad e integridad profesional absoluta.",
+    "trust_note": "Únase a 550+ empresas en todo el mundo que mueven sus activos con total tranquilidad.",
+
+    "testimonial_items": [
+      {
+        "id": 1,
+        "title": "La Ventaja Secure-Chain",
+        "content": "Mover $2M en diamantes en bruto de Amberes a Dubái solía quitarme el sueño. El protocolo Secure-Chain de Deep Blue Cargo cambió todo. Tratan cada gramo como si fuera suyo.",
+        "name": "Alexandre Moreau",
+        "position": "CEO, JewelSafe Holdings"
+      },
+      {
+        "id": 2,
+        "title": "Logística Salvavidas",
+        "content": "Cuando necesitamos transportar productos farmacéuticos sensibles a la temperatura a clínicas rurales en África Occidental, Deep Blue Cargo construyó una solución de cadena de frío personalizada en 48 horas. Su adaptabilidad salvó vidas.",
+        "name": "Dra. Hannah Chen",
+        "position": "Jefa de Logística, Novartis Medical"
+      },
+      {
+        "id": 3,
+        "title": "Discreción & Velocidad",
+        "content": "Como firma de capital privado, movemos regularmente documentos sensibles entre entidades offshore. La discreción y velocidad de la red de mensajería de Deep Blue no tienen paralelo. Son una extensión de nuestro propio equipo de seguridad.",
+        "name": "Marcus Thorne",
+        "position": "CFO, Blackwatch Capital"
+      },
+      {
+        "id": 4,
+        "title": "Precisión Militar",
+        "content": "Enviar una obra maestra del siglo XV de Florencia a Tokio requería precisión militar. El manejo con guantes blancos y el monitoreo ambiental en tiempo real de Deep Blue Cargo nos dio total confianza.",
+        "name": "Isabella Rossi",
+        "position": "Curadora de Arte, Palazzo Gallery"
+      },
+      {
+        "id": 5,
+        "title": "Cero Incidentes en 18 Meses",
+        "content": "Nuestros envíos de equipos mineros a sitios remotos en la RDC enfrentaban constantes retrasos y 'pérdidas'. Desde asociarnos con Deep Blue, hemos tenido cero incidentes en 18 meses. Su red de inteligencia en terreno es fenomenal.",
+        "name": "James Okafor",
+        "position": "Director de Operaciones, Pan-African Minerals"
+      }
+    ]
+  }
+}
