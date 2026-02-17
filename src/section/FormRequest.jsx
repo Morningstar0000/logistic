@@ -145,7 +145,7 @@ export default function TrackingForm() {
       </div>
 
       {/* Form container */}
-      <div className="bg-white rounded-lg shadow-xl w-full xl:mx-24 mx-7 xl:my-24 my-9 z-10 relative">
+      <div className="bg-white rounded-lg shadow-xl w-full xl:mx-24 mx-3 xl:my-24 my-9 z-10 relative">
         <div className="flex border-b">
           <div className="flex items-center gap-2 py-4 px-6 font-medium text-blue-500 border-b-2 border-blue-500">
             <Truck className="h-5 w-5" />
@@ -154,7 +154,7 @@ export default function TrackingForm() {
         </div>
 
         {/* Content area */}
-        <div className="p-8">
+        <div className="p-3">
           <div className="space-y-6">
             <div>
               <h3 className="text-2xl font-bold text-gray-800 mb-2">
@@ -212,9 +212,9 @@ export default function TrackingForm() {
                 )}
                 <p className="mt-3 text-sm text-gray-500">
                   {t('tracking.example')}{' '}
-                  <span className="font-mono bg-gray-100 px-2 py-1 rounded">SHIP123456789</span>
+                  <span className="font-mono bg-gray-100 px-2 py-1 rounded">DB7658923646</span>
                   {', '}
-                  <span className="font-mono bg-gray-100 px-2 py-1 rounded">TRK987654321</span>
+                
                 </p>
               </div>
             </form>
@@ -250,7 +250,7 @@ export default function TrackingForm() {
                   </div>
 
                   {/* Shipping Route Visualization */}
-                  <div className="bg-white rounded-lg border border-gray-200 p-6 mb-8">
+                  <div className="bg-white rounded-lg border border-gray-200 p-3 mb-8">
                     <h5 className="text-lg font-semibold text-gray-800 mb-6 flex items-center gap-2">
                       <svg className="h-5 w-5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
@@ -283,7 +283,7 @@ export default function TrackingForm() {
                       <div className="flex items-center justify-between">
                         {/* Origin Marker */}
                         <div className="text-center">
-                          <div className="w-10 h-10 rounded-full bg-green-500 flex items-center justify-center mx-auto mb-2">
+                          <div className="w-6 h-6 rounded-full bg-green-500 flex items-center justify-center mx-auto mb-2">
                             <svg className="h-5 w-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                               <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                             </svg>
@@ -297,8 +297,8 @@ export default function TrackingForm() {
                         {/* Current Location Marker */}
                         <div className="text-center relative -mt-4">
                           <div className="relative">
-                            <div className="w-12 h-12 rounded-full bg-gradient-to-r from-blue-500 to-blue-600 flex items-center justify-center mx-auto mb-2 border-4 border-white shadow-lg relative z-10 animate-pulse">
-                              <svg className="h-6 w-6 text-white" fill="currentColor" viewBox="0 0 20 20">
+                            <div className="w-6 h-6 rounded-full bg-gradient-to-r from-blue-500 to-blue-600 flex items-center justify-center mx-auto mb-2 border-4 border-white shadow-lg relative z-10 animate-pulse">
+                              <svg className="h-5 w-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                                 <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                               </svg>
                             </div>
@@ -311,7 +311,7 @@ export default function TrackingForm() {
 
                         {/* Destination Marker */}
                         <div className="text-center">
-                          <div className="w-10 h-10 rounded-full bg-red-500 flex items-center justify-center mx-auto mb-2">
+                          <div className="w-6 h-6 rounded-full bg-red-500 flex items-center justify-center mx-auto mb-2">
                             <svg className="h-5 w-5 text-white" fill="currentColor" viewBox="0 0 20 20">
                               <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                             </svg>
@@ -324,7 +324,7 @@ export default function TrackingForm() {
                       </div>
 
                       {/* Route Information */}
-                      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6 mb-8">
+                      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                         {/* Route Information */}
                         <div className="bg-gray-50 p-4 sm:p-5 rounded-lg border border-gray-200">
                           <h6 className="font-medium text-gray-700 mb-3 flex items-center gap-2">
