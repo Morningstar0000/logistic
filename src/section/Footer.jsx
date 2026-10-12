@@ -86,21 +86,10 @@ export default function Footer() {
               <li className="flex items-start gap-4">
                 <Mail className="text-orange-500 shrink-0" size={20} />
                 <div className="flex flex-col text-sm text-slate-400">
-                  <a href={`mailto:${t('footer.sections.headquarters.email1')}`} className="hover:text-white">
-                    {t('footer.sections.headquarters.email1')}
-                  </a>
+                
                   <a href={`mailto:${t('footer.sections.headquarters.email2')}`} className="hover:text-white">
-                    {t('footer.sections.headquarters.email2')}
+                    {t('footer.sections.headquarters.email')}
                   </a>
-                </div>
-              </li>
-              <li className="flex items-start gap-4">
-                <Phone className="text-orange-500 shrink-0" size={20} />
-                <div className="flex flex-col text-sm text-slate-400">
-                  <span>{t('footer.sections.headquarters.phone')}</span>
-                  <span className="text-orange-500 font-bold">
-                    {t('footer.sections.headquarters.support')}
-                  </span>
                 </div>
               </li>
             </ul>
