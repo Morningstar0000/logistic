@@ -36,7 +36,8 @@ export default function AuthGuard({ children }) {
         // List of allowed admin emails
         const adminEmails = [
           'miracleosaro000@gmail.com',
-          'miraclemorningstar9@gmail.com'
+          'miraclemorningstar9@gmail.com',
+          'admin@deepbluecargo.com'
         ]
         
         const userEmail = session.user.email
